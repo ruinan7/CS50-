@@ -1,2 +1,2 @@
-# CS50-
-Problem Solutions for Harvard's CS50 class
+# CS50
+Ruinan's lecture notes and problem solutions for Harvard's CS50 class
